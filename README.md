@@ -14,6 +14,8 @@ The target users of this GPT are developers and data scientists who need precise
 ### Related Link
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Search Classification](https://github.com/sourceduty/Search_Classification)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
